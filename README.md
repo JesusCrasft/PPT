@@ -1,4 +1,4 @@
-# Nave-CSS
+# PPT
 > Es un juego basado en el de piedra, papel o tijera
 
 > Es un juego de practica que desarrolle
